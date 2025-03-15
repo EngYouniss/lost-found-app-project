@@ -1,20 +1,17 @@
-<<<<<<< HEAD
-# lost-found-app-project
-=======
-# losethings
+# 📌 Lost & Found App  
 
-A new Flutter project.
+A simple Flutter app to help users report and find lost items.  
 
-## Getting Started
+## 🚀 Features  
+- Add lost items with details (name, location, date).  
+- Browse a list of lost and found items.  
+- Contact item owners.  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 2ddeb53 (initial commit)
+## 🛠 Tech Stack  
+- **Flutter** & **Dart**  
+## 📥 Installation  
+```bash
+git clone https://github.com/EngYouniss/lost-found-app-project.git
+cd lost-found-app-project
+flutter pub get
+flutter run
